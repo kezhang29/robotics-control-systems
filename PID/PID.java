@@ -1,4 +1,4 @@
-package PID;
+package pid;
 /**
  * General-use PID class in robotics. Contains timeout, settle time, 
  * and starti to prevent integral windup.
