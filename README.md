@@ -51,4 +51,6 @@ Graph with default PID params:
 
 <img width="1196" height="826" alt="Screenshot 2026-02-16 at 4 35 09 PM" src="https://github.com/user-attachments/assets/bb4f8d45-9550-438e-ba80-ebff73bf1ad1" /> 
 
+This is one with a high kP that caused oscillation:
 
+<img width="1144" height="758" alt="Screenshot 2026-02-18 at 2 32 08 PM" src="https://github.com/user-attachments/assets/08bbe3bc-453e-4fb9-8c71-b0ebd37823a4" />
