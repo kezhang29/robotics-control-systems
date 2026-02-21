@@ -12,7 +12,7 @@ public class PIDSim {
         double dt = 0.02;
         double time = 0;
         double currentPosition = initial;
-        double velocity = 0; // Track velocity!
+        double velocity = 0; 
 
         // header for csv 
         System.out.println("Time,Position,Error,Output");
