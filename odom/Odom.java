@@ -1,8 +1,8 @@
 package odom;
 
 public class Odom {
-    private double forwardTrackerCenterDistance;
-    private double sidewaysTrackerCenterDistance;
+    private final double forwardTrackerCenterDistance;
+    private final double sidewaysTrackerCenterDistance;
 
     private double forwardTrackerPosition;
     private double sidewaysTrackerPosition;
